@@ -2,7 +2,7 @@
 
 This project creates a website (dApp) where users can be whitelisted and the list of whitelisted users is saved on-chain.<br />
 
-The project can be viewed [here](https://whitelist-dapp-nu-seven.vercel.app/) <br />
+The project can be viewed [here](https://whitelist-d-app-sepia.vercel.app/) <br />
 
 The contract can be accessed [here](https://sepolia.etherscan.io/address/0x8A584DAee7EE0F2E6E216f38e0e3CEAA70224962)
 
